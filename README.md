@@ -61,22 +61,22 @@ Model: I'm doing great, thank you for asking! How about you?
 ## Screenshots
 Here are some screenshots showcasing the **Chat with LLM** app in action:
 
-![Screenshot 1](screenshots/1.jpg)
+![Screenshot 1](screenshots/1.png)
 *First view of the app showing the model selection and settings.*
 
-![Screenshot 2](screenshots/2.jpg)
+![Screenshot 2](screenshots/2.png)
 *Another screenshot showing the chat interface.*
 
-![Screenshot 3](screenshots/3.jpg)
+![Screenshot 3](screenshots/3.png)
 *Chat in progress with model responses.*
 
-![Screenshot 4](screenshots/4.jpg)
+![Screenshot 4](screenshots/4.png)
 *User adjusting settings in the sidebar.*
 
-![Screenshot 5](screenshots/5.jpg)
+![Screenshot 5](screenshots/5.png)
 *Chat in progress with model responses.*
 
-![Screenshot 6](screenshots/5.jpg)
+![Screenshot 6](screenshots/6.png)
 *Final view with full chat history.*
 
 ## Customization
